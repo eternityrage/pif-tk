@@ -3934,5 +3934,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-376fffc3-47d9-436f-87d5-59b44bff1f2e.mp4",
+        "metadata": {
+            "title": "Michelle Pfeiffer's Best Talk Show Appearances Compilation",
+            "description": "Michelle Pfeiffer's journey from small-town girl to Hollywood royalty is nothing short of inspirational. Her story proves that with talent, hard work, and authenticity, you can achieve anything. Share this if Michelle Pfeiffer inspires you! #michellepfeiffer #inspiration #hollywood #successstory #actress #rolemodel #motivation #michellepfeifferfan #journey",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
